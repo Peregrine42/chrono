@@ -4,7 +4,7 @@
   "description": "gui for describing the relationships between different graphite data",
   "main": "index.js",
   "scripts": {
-    "test": "cucumber main.feature"
+    "test": "./node_modules/cucumber/bin/cucumber.js"
   },
   "repository": {
     "type": "git",
